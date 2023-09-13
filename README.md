@@ -14,6 +14,7 @@ the testing data. The model was then evaluated using confusin matrix and classif
 
 
 Results
+
 Model 1 Logistic Regression:
 Accuracy: 0.992, Precision score for 0: 1.00, Precision score for 1:0.85, Recall score for 0:0.99, Recall score for 1:0.91
 
